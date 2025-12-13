@@ -1,5 +1,8 @@
 # Loja me Numra
 Loja me Numra është një lojë 2D e zhvilluar në Java duke përdorur Swing.
+Kjo lojë është zhvilluar nga studentet e Kolegjit AAB:Dea Prapashtica dhe Fijona Haxhija në lëndën Programimi i Lojrave Kompjuterike.
+dea.prapashtica@universitetiaab.com
+fijona.haxhija@universitetiaab.com
 
 ## Si funksionon loja
 - Numra random bien nga pjesa e sipërme e ekranit

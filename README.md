@@ -20,5 +20,3 @@ fijona.haxhija@universitetiaab.com
 ## Teknologjitë
 - Java
 - Swing
-- Timer
-- Collision detection me Rectangle
